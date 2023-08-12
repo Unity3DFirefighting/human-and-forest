@@ -1,0 +1,4 @@
+repository "helpfire@tong_tong@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
